@@ -12,6 +12,7 @@
       "titulo": "Cafeína – Bom ou Ruim ?",
       "subtitulo": "Alguns discutirão dizendo que a cafeína não é uma droga. Porém, todos os professionais da área médica concordam que o termo “droga” pode ser usado pra qualquer substância capaz de alterar o humor, percepção e pensameto...",
       "capa": "https://sujeitoprogramador.com/nutriapp/wp-content/uploads/2017/12/Screenshot_3-2.jpg",
+
       "categoria_id": 1
     },
     {
@@ -43,7 +44,6 @@
       "titulo": "Razões comuns para você estar falhando em perder peso",
       "subtitulo": "Contar calorias mentalmente, achar que atividade aeróbica é a solução divina Culpar o metabolismo lento, pessoas que sofrem com problemas hormonais que afetam o metabolismo são minoria, e o diagnóstico do problema só poder ser descoberto...",
       "capa": "https://sujeitoprogramador.com/nutriapp/wp-content/uploads/2017/12/Screenshot_3-2.jpg",
-
       "categoria_id": 2
     }
   ],
