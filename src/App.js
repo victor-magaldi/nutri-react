@@ -9,10 +9,11 @@ export default class App extends Component {
     };
   }
   componentDidMount() {
-    const url = "https://sujeitoprogramador.com/rn-api/?api=posts";
+    const url = " http://localhost:3004/posts";
     fetch(url)
       .then((r) => r.json())
       .then((json) => {
+        console.log(json);
         let state = this.state;
         state.nutri = json;
         this.setState(state);
